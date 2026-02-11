@@ -151,8 +151,6 @@ npm run preview
 - [ ] Compare multiple loan scenarios
 - [ ] Save calculations to local storage
 - [ ] Add property tax and insurance calculations
-- [ ] Dark mode toggle
-
 
 ## 🙌 Contributing
 
