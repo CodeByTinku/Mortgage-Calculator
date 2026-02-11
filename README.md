@@ -17,6 +17,8 @@ A beautiful, responsive mortgage calculator built with **React**, **TailwindCSS*
 - ✅ **Accessibility** - Full keyboard navigation, ARIA labels, and focus states
 - ✅ **Modern UI** - Clean card-based layout with gradient backgrounds and shadows
 - ✅ **Playful Interactions** - Reset button with rotation animation, shake effects on errors
+- ✅ **Dark Mode** - Fully responsive dark mode with persistent theme preference
+- ✅ **Export to PDF** - Download your mortgage summary as a professional PDF document
 
 ## 🚀 Tech Stack
 
@@ -147,11 +149,10 @@ npm run preview
 ## 🔮 Future Enhancements
 
 - [ ] Add payment schedule visualization
-- [ ] Export results as PDF
+- [x] Export results as PDF
 - [ ] Compare multiple loan scenarios
 - [ ] Save calculations to local storage
 - [ ] Add property tax and insurance calculations
-- [ ] Dark mode toggle
 
 
 ## 🙌 Contributing
