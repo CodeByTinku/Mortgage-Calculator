@@ -154,7 +154,6 @@ npm run preview
 - [ ] Save calculations to local storage
 - [ ] Add property tax and insurance calculations
 
-
 ## 🙌 Contributing
 
 Contributions are welcome! Feel free to:
