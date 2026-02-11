@@ -149,7 +149,6 @@ npm run preview
 ## 🔮 Future Enhancements
 
 - [ ] Add payment schedule visualization
-- [x] Export results as PDF
 - [ ] Compare multiple loan scenarios
 - [ ] Save calculations to local storage
 - [ ] Add property tax and insurance calculations
